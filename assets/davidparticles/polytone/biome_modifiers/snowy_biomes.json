@@ -1,0 +1,33 @@
+{
+	"targets": [
+		"minecraft:snowy_plains",
+		"minecraft:snowy_slopes",
+		"minecraft:snowy_beach",
+		"minecraft:snowy_taiga",
+		"minecraft:frozen_river",
+		"minecraft:frozen_ocean",
+		"minecraft:frozen_peaks",
+		"minecraft:deep_frozen_ocean",
+		"minecraft:ice_spikes",
+		"minecraft:jagged_peaks",
+		"minecraft:grove"
+		"wythers:cold_island",
+		"wythers:cold_plains",
+		"wythers:cold_stony_shore",
+		"wythers:deep_snowy_taiga",
+		"wythers:frigid_island",
+		"wythers:frozen_island",
+		"wythers:ice_cap",
+		"wythers:icy_crags",
+		"wythers:icy_river",
+		"wythers:snowy_bog",
+		"wythers:snowy_canyon",
+		"wythers:snowy_fen",
+		"wythers:snowy_peaks",
+		"wythers:snowy_thermal_taiga",
+		"wythers:snowy_tundra",
+		"wythers:tundra"
+	],
+	"fog_radius": "1 - RAIN*0.75 + (RAIN > 0)*(PLAYER_Y < 47)*(RAIN*0.75) + (PLAYER_Y < 47)*0.2 - (PLAYER_Y <= -54)*0.75*(SKY_LIGHT == 0)",
+ 	"fog_fade": "(1.1 + (RENDER_DISTANCE/64)*0.5 + RAIN*0.25 - (RAIN > 0)*(PLAYER_Y < 47)*(RAIN*0.25) - (PLAYER_Y < 47)*0.1)*(7.5 + (RENDER_DISTANCE/64*2.5))"
+}

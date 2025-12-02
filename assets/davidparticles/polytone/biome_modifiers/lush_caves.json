@@ -1,0 +1,11 @@
+{
+	"targets": [
+		"minecraft:lush_caves"
+		"wythers:ancient_moss_forest",
+		"wythers:lichenous_caves",
+		"wythers:lush_shroom_caves",
+		"wythers:mossy_caves"
+	],
+		"fog_radius": 0.35,
+ 		"fog_fade": "1.25*(7.5 + (RENDER_DISTANCE/64*2.5))"
+  }

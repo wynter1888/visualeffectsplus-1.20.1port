@@ -1,0 +1,13 @@
+{
+	"targets": [
+		"minecraft:basalt_deltas"
+		"wythers:icy_volcano",
+		"wythers:savanna_basaltic_incursions",
+		"wythers:tropical_volcano",
+		"wythers:volcanic_chamber",
+		"wythers:volcanic_crater",
+		"wythers:volcano"
+	],
+	"fog_radius": 1,
+ 	"fog_fade": "1.25"
+}
