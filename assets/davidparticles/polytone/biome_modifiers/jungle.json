@@ -2,7 +2,7 @@
 	"targets": [
 		"minecraft:jungle",
 		"minecraft:sparse_jungle",
-		"minecraft:bamboo_jungle"
+		"minecraft:bamboo_jungle",
 		"wythers:bamboo_jungle_canyon",
 		"wythers:bamboo_jungle_highlands",
 		"wythers:dry_tropical_forest",

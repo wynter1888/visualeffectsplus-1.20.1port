@@ -2,7 +2,7 @@
 	"targets": [
 		"minecraft:savanna",
 		"minecraft:savanna_plateau",
-		"minecraft:windswept_savanna"
+		"minecraft:windswept_savanna",
 		"wythers:dry_savanna",
 		"wythers:eucalyptus_salubris_woodland",
 		"wythers:flooded_savanna",

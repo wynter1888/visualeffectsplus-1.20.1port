@@ -1,6 +1,6 @@
 {
 	"targets": [
-		"minecraft:mushroom_fields"
+		"minecraft:mushroom_fields",
 		"wythers:mushroom_caves",
 		"wythers:mushroom_island"
 	],

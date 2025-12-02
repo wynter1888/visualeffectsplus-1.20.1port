@@ -1,6 +1,6 @@
 {
 	"targets": [
-		"minecraft:crimson_forest"
+		"minecraft:crimson_forest",
 		"wythers:crimson_tundra"
 	],
 	"fog_radius": 1,

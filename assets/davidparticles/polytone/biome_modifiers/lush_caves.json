@@ -1,6 +1,6 @@
 {
 	"targets": [
-		"minecraft:lush_caves"
+		"minecraft:lush_caves",
 		"wythers:ancient_moss_forest",
 		"wythers:lichenous_caves",
 		"wythers:lush_shroom_caves",

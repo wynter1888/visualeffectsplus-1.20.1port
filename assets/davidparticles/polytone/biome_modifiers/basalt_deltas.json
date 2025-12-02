@@ -1,6 +1,6 @@
 {
 	"targets": [
-		"minecraft:basalt_deltas"
+		"minecraft:basalt_deltas",
 		"wythers:icy_volcano",
 		"wythers:savanna_basaltic_incursions",
 		"wythers:tropical_volcano",

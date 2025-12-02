@@ -1,6 +1,6 @@
 {
 	"targets": [
-		"minecraft:dripstone_caves"
+		"minecraft:dripstone_caves",
 		"wythers:calcite_caverns",
 		"wythers:fungous_dripstone_caves",
 		"wythers:lichenous_dripstone_caves",

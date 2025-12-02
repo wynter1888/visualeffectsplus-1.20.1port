@@ -1,6 +1,6 @@
 {
 	"targets": [
-		"minecraft:cherry_grove"
+		"minecraft:cherry_grove",
 		"wythers:sakura_forest"
 	],
 	"fog_radius": "1 - RAIN*0.1  + (RAIN > 0)*(PLAYER_Y < 47)*(RAIN*0.1) + (PLAYER_Y < 47)*0.15 - (PLAYER_Y <= -54)*0.75*(SKY_LIGHT == 0)",
